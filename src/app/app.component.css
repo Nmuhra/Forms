@@ -1,6 +1,11 @@
 div{
     text-align: center;
+    background-color: grey;
+    
 }
 label{
     text-align: left;
+}
+button{
+    background-color: cyan;
 }
